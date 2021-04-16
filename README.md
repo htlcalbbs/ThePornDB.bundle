@@ -76,7 +76,7 @@ Create a Movie Library
 - Input yuor API Token in the Personal API Key box
 - Select any other options and save your changes
 
-> For a successful match to your videos, filenames should be in the format 
+> For a successful match to your videos, filenames should be in the format ???-???-???-???
 
 
 
