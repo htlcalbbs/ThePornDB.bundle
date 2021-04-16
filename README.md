@@ -42,9 +42,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
-
+### Key Features
+ - Metadata Agent for adult movie scenes
+ - Creates collection based on originating site
+ - Adds genre tags* 
+ - Adds description*
+ - Adds thumbnails for the Cast*
+(*when available)
 
 
 
@@ -54,10 +58,12 @@
 
 
 ### Prerequisites
-
-
+- You must know the location and have access to the Plex Plug-Ins folder. If you need help finding it go [here](https://support.plex.tv/articles/201106098-how-do-i-find-the-plug-ins-folder/)
+- You need to have a basic understanding of how to download from git and unzip files to your OS.
 
 ### Installation
+- Download, unzip, and rename the Plug-In. If you need help follow [these](https://support.plex.tv/articles/201187656-how-do-i-manually-install-a-plugin/) instructions
+- The Plug-In can be found at: ``` https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip ```
 
 
 
@@ -90,3 +96,6 @@ Project Link: [https://github.com/ThePornDatabase/ThePornDB.bundle](https://gith
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+
+
+
