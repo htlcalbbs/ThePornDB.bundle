@@ -73,7 +73,7 @@
 Create a Movie Library
 - Add the folders that contain your Porn Scenes
 - Select ThePornDB Agent in the advanced tab
-- Input yuor API Token in the Personal API Key box
+- Input your API Token in the Personal API Key box
 - Select any other options and save your changes
 
 > For a successful match to your videos, filenames should be in the format ???-???-???-???
