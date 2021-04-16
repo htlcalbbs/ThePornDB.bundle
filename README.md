@@ -9,12 +9,11 @@
     <img src="logo.png" alt="Logo" width="150" height="80">
   </a>
 
-  <h3 align="center">The Porn Database Plex Plug-In</h3>
+  <h3 align="center">The PornDB Plex Metadata Plug-In</h3>
 
   <p align="center">
    
- ***enter description***
-
+ 
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
